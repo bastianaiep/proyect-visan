@@ -1,0 +1,91 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.titulo{
+  text-align: center;
+  margin: 20px 0px 20px 0px;
+
+}
+.nav-link{
+color:white;
+}
+
+/*.btnsalir{
+margin: 0px 0px 0px 30px;
+width: 40px; 
+height: 40px;
+}*/
+
+.error{
+
+}
+.login-box{
+	width: 30%;
+	justify-content: center;
+	height: auto;
+	margin:auto;
+}
+@media (max-width: 500px) and (min-width: 300px) {
+	.login-box{
+	width: 100%;
+	justify-content: center;
+	height: auto;
+	margin:auto;
+	}
+}
+@media (max-width: 900px) and (min-width: 550px) {
+	.login-box{
+	width: 60%;
+	justify-content: center;
+	height: auto;
+	margin:auto;
+	}
+}
+@media (max-width: 1362px) and (min-width: 890px) {
+	.login-box{
+	width: 30%;
+	justify-content: center;
+	height: auto;
+	margin:auto;
+	}
+}
+
+.accederlogin{
+	margin: 0px 300px 0px 16px;
+
+}
+.fondoinicio{
+width: 70%;
+height: auto;
+margin:auto;
+}
+.fondo{
+width: 100%;
+height: 400px;
+margin:auto;
+/*background-color: #F0E3C9;*/
+}
+.wrapper{
+	margin-top: 40px;
+}
+.contenedor{
+	margin-right: 60px;
+	margin-left: 60px;
+	margin-bottom: 40px;
+}
+.agregar{
+	margin-top: 32px;
+}
